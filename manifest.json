@@ -1,0 +1,10 @@
+{
+  "id": "streak-plugin",
+  "name": "Streak Tracker",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Tracks your daily usage streak and resets if you miss a day.",
+  "main": "mk/main.js",
+  "authorUrl": "https://github.com/errorscode",
+  "isDesktopOnly": false
+}

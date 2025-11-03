@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es6", "dom"],
+    "outDir": "Streak-Tracker",          // compiled JS goes here
+    "rootDir": "src",        // source TS files are here
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.ts"]  // all TS files in src/
+}
